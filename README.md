@@ -1,5 +1,7 @@
 ### Hi, I am Danilo 👋
 
+Pode entraem contato comigo pelo email: danilosanxez@gmail.com
+
 ## My specialties:
 
 FrontEnd :   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

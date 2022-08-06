@@ -1,6 +1,6 @@
 ### Hi, I am Danilo 👋
 
-Pode entraem contato comigo pelo email: danilosanxez@gmail.com
+Pode entra em contato comigo pelo email: danilosanxez@gmail.com
 
 ## My specialties:
 
